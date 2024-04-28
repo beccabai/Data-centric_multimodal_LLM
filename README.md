@@ -1,2 +1,12 @@
-# Data-centric_LLM
-Survey on Data-centric Large Language Models
+# Data-centric Multimodal LLM
+Survey on data-centric multimodal large language models
+
+## Data sources
+
+## Commonly-used datasets
+
+## Data-centric pretraining
+
+## Data-centric adaptation
+
+## Evaluation
