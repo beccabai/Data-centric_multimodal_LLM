@@ -2,7 +2,7 @@
 
 Survey on data-centric multimodal large language models
 
-![Sources](Figures/figure1 overview.png)
+![Sources](Figures/figure1.png)
 
 List of Sources
 
