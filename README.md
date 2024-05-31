@@ -290,9 +290,85 @@ Multimodal SFT Datasets:
 
 ## Data-centric pretraining
 
+### Domain mixture
+
+1. **Doremi: Optimizing data mixtures speeds up language model pretraining** - [paper](https://arxiv.org/abs/2305.10429)
+2. **Data selection for language models via importance resampling** - [paper](https://arxiv.org/abs/2302.03169)
+3. **Glam: Efficient scaling of language models with mixture-of-experts**** - [paper](https://arxiv.org/abs/2112.06905) 
+4. **Videollm: Modeling video sequence with large language models** - [paper](https://arxiv.org/abs/2305.13292)
+5. **Vast: A vision-audio-subtitle-text omni-modality foundation model and dataset** - [paper](https://arxiv.org/abs/2305.18500)
+6. **Moviechat: From dense token to sparse memory for long video understanding** - [paper](https://arxiv.org/abs/2307.16449)
+7. **Internvid: A large-scale video-text dataset for multimodal understanding and generation** - [paper](https://arxiv.org/abs/2307.06942)
+8. **Youku-mplug: A 10 million large-scale chinese video-language dataset for pre-training and benchmarks** - [paper](https://arxiv.org/abs/2306.04362)
+
+
+
+### Modality Mixture
+
+1. **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training** - [paper](https://arxiv.org/abs/2403.09611)
+2. **From scarcity to efficiency: Improving clip training via visual-enriched captions** - [paper](https://arxiv.org/abs/2310.07699v1)
+3. **Valor: Vision-audio-language omni-perception pretraining model and dataset** - [paper](https://arxiv.org/abs/2304.08345)
+4. **AutoAD:Moviedescription in context** - [paper](https://arxiv.org/abs/2303.16899)
+5. **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** - [paper](https://arxiv.org/abs/2311.08046)
+6. **VideoChat: Chat-Centric Video Understanding** - [paper](https://arxiv.org/abs/2305.06355)
+7. **Mvbench: A comprehensive multi-modal video understanding benchmark** - [paper](https://arxiv.org/abs/2311.17005)
+8. **LLaMA-VID: An image is worth 2 tokens in large language models** - [paper](https://arxiv.org/abs/2311.17043)
+9. **Video-llava:Learningunitedvisualrepresentation by alignment before projection** - [paper](https://arxiv.org/abs/2311.10122)
+10. **Valley: Video assistant with large language model enhanced ability** - [paper](https://arxiv.org/abs/2306.07207)
+11. **Video-llama: An instruction-tuned audio-visual language model for video understanding** - [paper](https://arxiv.org/abs/2306.02858)
+12. **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration** - [paper](https://arxiv.org/abs/2306.09093)
+13. **Audio-Visual LLM for Video Understanding** - [paper](https://arxiv.org/abs/2312.06720)
+14. **Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models** - [paper](https://arxiv.org/abs/2310.05863)
+
+
+
+### Quality Selection
+
+1. **DataComp: In search of the next generation of multimodal datasets** - [paper](https://arxiv.org/abs/2304.14108)
+2. **Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters** - [paper](https://arxiv.org/abs/2403.02677)
+3. **CiT: Curation in Training for Effective Vision-Language Data** - [paper](https://arxiv.org/abs/2301.02241)
+4. **Sieve: Multimodal Dataset Pruning Using Image Captioning Models** - [paper](https://arxiv.org/abs/2310.02110)
+5. **Variance Alignment Score: A Simple But Tough-to-Beat Data Selection Method for Multimodal Contrastive Learning** - [paper](https://arxiv.org/abs/2402.02055)
+
 
 
 ## Data-centric adaptation
+
+### Data-Centric Supervised Finetuning
+
+1. **Unnatural instructions: Tuning language models with (almost) no human labor** - [paper](https://arxiv.org/abs/2212.09689)
+2. **Active Learning for Convolutional Neural Networks: A Core-Set Approach** - [paper](https://arxiv.org/abs/1708.00489)
+3. **Moderate Coreset: A Universal Method of Data Selection for Real-world Data-efficient Deep Learning** - [paper](https://openreview.net/forum?id=7D5EECbOaf9)
+4. **Similar: Submodular information measures based active learning in realistic scenarios** - [paper](https://arxiv.org/abs/2107.00717)
+5. **Practical coreset constructions for machine learning** - [paper](https://arxiv.org/abs/1703.06476)
+6. **Deep learning on a data diet: Finding important examples early in training** - [paper](https://arxiv.org/abs/2107.07075)
+7. **A new active labeling method for deep learning** - [paper](https://ieeexplore.ieee.org/document/6889457)
+8. **Maybe only 0.5% data is needed: A preliminary exploration of low training data instruction tuning** - [paper](https://arxiv.org/abs/2305.09246)
+9. **DEFT: Data Efficient Fine-Tuning for Pre-Trained Language Models via Unsupervised Core-Set Selection** - [paper](https://arxiv.org/abs/2310.16776)
+10. **Beyond neural scaling laws: beating power law scaling via data pruning** - [paper](https://arxiv.org/abs/2206.14486)
+11. **Mods: Model-oriented data selection for instruction tuning**. - [paper](https://arxiv.org/abs/2311.15653)
+12. **DeBERTa: Decoding-enhanced BERT with Disentangled Attention** - [paper](https://arxiv.org/abs/2006.03654)
+13. **Alpagasus: Training a better alpaca with fewer data** - [paper](https://arxiv.org/abs/2307.08701)
+14. **Rethinking the Instruction Quality: LIFT is What You Need** - [paper](https://arxiv.org/abs/2312.11508)
+15. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning** - [paper](https://arxiv.org/abs/2312.15685)
+16. **InsTag: Instruction Tagging for Analyzing Supervised Fine-tuning of Large Language Models** - [paper](https://arxiv.org/abs/2308.07074)
+17. **SelectLLM: Can LLMs Select Important Instructions to Annotate?** - [paper](https://arxiv.org/abs/2401.16553)
+18. **Improved Baselines with Visual Instruction Tuning** - [paper](https://arxiv.org/abs/2310.03744)
+19. **NLU on Data Diets: Dynamic Data Subset Selection for NLP Classification Tasks** - [paper](https://arxiv.org/abs/2306.03208)
+20. **LESS: Selecting Influential Data for Targeted Instruction Tuning** - [paper](https://arxiv.org/abs/2402.04333)
+21.  **From quantity to quality: Boosting llm performance with self-guided data selection for instruction tuning** - [paper](https://arxiv.org/abs/2308.12032)
+22. **One shot learning as instruction data prospector for large language models** - [paper](https://arxiv.org/abs/2312.10302)
+23. **Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks** - [paper](https://arxiv.org/abs/2311.00288)
+24. **SelectIT: Selective Instruction Tuning for Large Language Models via Uncertainty-Aware Self-Reflection** - [paper](https://arxiv.org/abs/2402.16705)
+
+
+
+### Data-Centric Human Preference Alignment
+
+1.  **Training language models to follow instructions with human feedback** - [paper](https://arxiv.org/abs/2203.02155)
+2. **LLaMA-VID: An image is worth 2 tokens in large language models** - [paper](https://arxiv.org/abs/2311.17043)
+3. **Aligning large multimodal models with factually augmented rlhf** - [paper]()
+4. **Dress: Instructing large vision-language models to align and interact with humans via natural language feedback** - [paper](https://arxiv.org/abs/2311.10081)
 
 
 
