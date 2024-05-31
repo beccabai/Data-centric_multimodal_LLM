@@ -264,25 +264,25 @@ Multimodal SFT Datasets:
 | DataEngine-InstData         | Image             | https://opendatalab.com/OpenDataLab/DataEngine-InstData      |
 | GranD_f                     | Image             | https://huggingface.co/datasets/MBZUAI/GranD-f/tree/main     |
 | LLaVA                       | Image             | https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K |
-| LLaVA-1.5                   | Image             | [https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/blob/main/llava_v1_5_mix665k.json   https://github.com/haotian-liu/LLaVA#train](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/blob/main/llava_v1_5_mix665k.json https:/github.com/haotian-liu/LLaVA#train) |
+| LLaVA-1.5                   | Image             | https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/blob/main/llava_v1_5_mix665k.json https:/github.com/haotian-liu/LLaVA#train |
 | LVLM_NLF                    | Image             | https://huggingface.co/datasets/YangyiYY/LVLM_NLF/tree/main  |
 | M3IT                        | Image             | https://huggingface.co/datasets/MMInstruction/M3IT           |
 | MMC-Instruction Dataset     | Image             | https://github.com/FuxiaoLiu/MMC/blob/main/README.md         |
-| MiniGPT-4                   | Image             | [https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view   https://github.com/Vision-CAIR/MiniGPT-4/blob/main/prompts/alignment.txt](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view https:/github.com/Vision-CAIR/MiniGPT-4/blob/main/prompts/alignment.txt) |
+| MiniGPT-4                   | Image             | https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view  |
 | MiniGPT-v2                  | Image             | https://github.com/Vision-CAIR/MiniGPT-4/blob/main/dataset/README_MINIGPTv2_FINETUNE.md |
 | PVIT                        | Image             | https://huggingface.co/datasets/PVIT/pvit_data_stage2/tree/main |
 | PointLLM Instruction data   | 3D                | https://huggingface.co/datasets/RunsenXu/PointLLM/tree/main  |
 | ShareGPT4V                  | Image             | https://huggingface.co/datasets/Lin-Chen/ShareGPT4V/tree/main |
-| Shikra-RD                   | Image             | [https://drive.google.com/file/d/1CNLu1zJKPtliQEYCZlZ8ykH00ppInnyN/view   https://github.com/shikras/shikra/blob/main/config/_base_/dataset/DEFAULT_TEST_FLICKR_VARIANT.py](https://drive.google.com/file/d/1CNLu1zJKPtliQEYCZlZ8ykH00ppInnyN/view https:/github.com/shikras/shikra/blob/main/config/_base_/dataset/DEFAULT_TEST_FLICKR_VARIANT.py) |
+| Shikra-RD                   | Image             | https://drive.google.com/file/d/1CNLu1zJKPtliQEYCZlZ8ykH00ppInnyN/view  |
 | SparklesDialogue            | Image             | https://github.com/HYPJUDY/Sparkles/tree/main/dataset        |
 | T2M                         | Image,Video,Audio | https://github.com/NExT-GPT/NExT-GPT/tree/main/data/IT_data/T-T+X_data |
 | TextBind                    | Image             | https://drive.google.com/drive/folders/1-SkzQRInSfrVyZeB0EZJzpCPXXwHb27W |
 | TextMonkey                  | Image             | https://www.modelscope.cn/datasets/lvskiller/TextMonkey_data/files |
-| VGGSS-Instruction           | Image,Audio       | [https://bubo-gpt.github.io](https://bubo-gpt.github.io/)    |
+| VGGSS-Instruction           | Image,Audio       | https://bubo-gpt.github.io/    |
 | VIGC-InstData               | Image             | https://opendatalab.com/OpenDataLab/VIGC-InstData            |
 | VILA                        | Image             | https://github.com/Efficient-Large-Model/VILA/tree/main/data_prepare |
 | VLSafe                      | Image             | https://arxiv.org/abs/2312.07533                             |
-| Video-ChatGPT-video-it-data | Video             | [https://mbzuaiac-my.sharepoint.com/personal/hanoona_bangalath_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhanoona%5Fbangalath%5Fmbzuai%5Fac%5Fae%2FDocuments%2FVideo%2DChatGPT%2FData%5FCode%5FModel%5FRelease%2FVideoInstruct%5FDataset%2Ejson&parent=%2Fpersonal%2Fhanoona%5Fbangalath%5Fmbzuai%5Fac%5Fae%2FDocuments%2FVideo%2DChatGPT%2FData%5FCode%5FModel%5FRelease&ga=1](https://mbzuaiac-my.sharepoint.com/personal/hanoona_bangalath_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhanoona_bangalath_mbzuai_ac_ae%2FDocuments%2FVideo-ChatGPT%2FData_Code_Model_Release%2FVideoInstruct_Dataset.json&parent=%2Fpersonal%2Fhanoona_bangalath_mbzuai_ac_ae%2FDocuments%2FVideo-ChatGPT%2FData_Code_Model_Release&ga=1) |
+| Video-ChatGPT-video-it-data | Video             | https://mbzuaiac-my.sharepoint.com/personal/hanoona_bangalath_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhanoona%5Fbangalath%5Fmbzuai%5Fac%5Fae%2FDocuments%2FVideo%2DChatGPT%2FData%5FCode%5FModel%5FRelease%2FVideoInstruct%5FDataset%2Ejson&parent=%2Fpersonal%2Fhanoona%5Fbangalath%5Fmbzuai%5Fac%5Fae%2FDocuments%2FVideo%2DChatGPT%2FData%5FCode%5FModel%5FRelease&ga=1|
 | VideoChat-video-it-data     | Video             | https://github.com/OpenGVLab/InternVideo/tree/main/Data/instruction_data |
 | X-InstructBLIP-it-data      | Image,Video,Audio | https://github.com/salesforce/LAVIS/tree/main/projects/xinstructblip |
 
