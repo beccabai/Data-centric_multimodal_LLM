@@ -374,3 +374,66 @@ Multimodal SFT Datasets:
 
 ## Evaluation
 
+1. Gans trained by a two time-scale update rule converge to a local nash equilibrium - [paper](https://arxiv.org/abs/1706.08500)
+2. Assessing generative models via precision and recall - [paper](https://arxiv.org/abs/1806.00035)
+3. Unsupervised Quality Estimation for Neural Machine Translation - [paper](https://arxiv.org/abs/2005.10608)
+4. Mixture models for diverse machine translation: Tricks of the trade - [paper](https://arxiv.org/abs/1902.07816)
+5. The vendi score: A diversity evaluation metric for machine learning - [paper](https://arxiv.org/abs/2210.02410)
+6. Cousins Of The Vendi Score: A Family Of Similarity-Based Diversity Metrics For Science And Machine Learning - [paper](https://arxiv.org/abs/2310.12952)
+7. Navigating text-to-image customization: From lycoris fine-tuning to model evaluation - [paper](https://arxiv.org/abs/2309.14859)
+8. TRUE: Re-evaluating factual consistency evaluation - [paper](https://arxiv.org/abs/2204.04991)
+9. Object hallucination in image captioning - [paper](https://arxiv.org/abs/1809.02156)
+10. Faithscore: Evaluating hallucinations in large vision-language models - [paper](https://arxiv.org/abs/2311.01477)
+11. Deep coral: Correlation alignment for deep domain adaptation - [paper](https://arxiv.org/abs/1607.01719)
+12. Transferability in deep learning: A survey - [paper](https://arxiv.org/abs/2201.05867)
+13. Mauve scores for generative models: Theory and practice - [paper](https://arxiv.org/abs/2212.14578)
+14. Translating Videos to Natural Language Using Deep Recurrent Neural Networks - [paper](https://arxiv.org/abs/1412.4729)
+
+
+
+### Evaluation Datasets:
+
+| Dataset                     | Modality | Type                                 | Link                                                         |
+| --------------------------- | -------- | ------------------------------------ | ------------------------------------------------------------ |
+| MMMU                        | Image    | Caption and General VQA              | [https://mmmu-benchmark.github.io](https://mmmu-benchmark.github.io/) |
+| MME                         | Image    | Caption and General VQA              | https://arxiv.org/abs/2306.13394                             |
+| Nocaps                      | Image    | Caption and General VQA              | https://github.com/nocaps-org                                |
+| GQA                         | Image    | Caption and General VQA              | https://cs.stanford.edu/people/dorarad/gqa/about.html        |
+| DVQA                        | Image    | Caption and General VQA              | https://github.com/kushalkafle/DVQA_dataset                  |
+| VSR                         | Image    | Caption and General VQA              | https://github.com/cambridgeltl/visual-spatial-reasoning?tab=readme-ov-file |
+| OKVQA                       | Image    | Caption and General VQA              | https://okvqa.allenai.org/                                   |
+| Vizwiz                      | Image    | Caption and General VQA              | https://vizwiz.org/                                          |
+| POPE                        | Image    | Caption and General VQA              | https://github.com/RUCAIBox/POPE                             |
+| TextVQA                     | Image    | Text-Oriented VQA                    | https://textvqa.org/                                         |
+| DocVQA                      | Image    | Text-Oriented VQA                    | https://www.docvqa.org/                                      |
+| ChartQA                     | Image    | Text-Oriented VQA                    | https://github.com/vis-nlp/ChartQA                           |
+| AI2D                        | Image    | Text-Oriented VQA                    | https://allenai.org/data/diagrams                            |
+| OCR-VQA                     | Image    | Text-Oriented VQA                    | https://ocr-vqa.github.io/                                   |
+| ScienceQA                   | Image    | Text-Oriented VQA                    | https://scienceqa.github.io/                                 |
+| MathV                       | Image    | Text-Oriented VQA                    | https://mathvista.github.io/                                 |
+| MMVet                       | Image    | Text-Oriented VQA                    | https://github.com/yuweihao/MM-Vet                           |
+| RefCOCO, RefCOCO+, RefCOCOg | Image    | Referring Expression Comprehension   | https://github.com/lichengunc/refer                          |
+| GRIT                        | Image    | Referring Expression Comprehension   | https://allenai.org/project/grit/home                        |
+| TouchStone                  | Image    | Instruction Following                | https://allenai.org/project/grit/home                        |
+| SEED-Bench                  | Image    | Instruction Following                | https://allenai.org/project/grit/home                        |
+| MME                         | Image    | Instruction Following                | https://allenai.org/project/grit/home                        |
+| LLaVAW                      | Image    | Instruction Following                | https://github.com/haotian-liu/LLaVA                         |
+| HM                          | Image    | Other                                | https://ai.meta.com/blog/hateful-memes-challenge-and-data-set/ |
+| MMB                         | Image    | Other                                | https://github.com/open-compass/MMBench                      |
+| MSVD                        | Video    | Video question answering             | https://paperswithcode.com/dataset/msvd                      |
+| MSRVTT                      | Video    | Video question answering             | https://paperswithcode.com/dataset/msr-vtt                   |
+| TGIF-QA                     | Video    | Video question answering             | https://paperswithcode.com/dataset/tgif-qa                   |
+| ActivityNet-QA              | Video    | Video question answering             | https://paperswithcode.com/dataset/activitynet-qa            |
+| LSMDC                       | Video    | Video question answering             | https://paperswithcode.com/dataset/lsmdc                     |
+| MoVQA                       | Video    | Video question answering             | https://arxiv.org/abs/2312.04817                             |
+| DiDeMo                      | Video    | Video captioning and Video retrieval | https://paperswithcode.com/dataset/didemo                    |
+| VATEX                       | Video    | Video captioning and Video retrieval | https://eric-xw.github.io/vatex-website/about.html           |
+| MVBench                     | Video    | Other                                | https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2 |
+| EgoSchema                   | Video    | Other                                | https://egoschema.github.io/                                 |
+| VideoChatGPT                | Video    | Other                                | https://github.com/mbzuai-oryx/Video-ChatGPT/tree/main       |
+| Charade-STA                 | Video    | Other                                | https://github.com/jiyanggao/TALL                            |
+| QVHighlight                 | Video    | Other                                | https://github.com/jayleicn/moment_detr/tree/main/data       |
+| AudioCaps                   | Audio    | Audio retrieval                      | https://audiocaps.github.io/                                 |
+| Clotho                      | Audio    | Audio retrieval                      | https://zenodo.org/records/4743815                           |
+| ClothoAQA                   | Audio    | Audio question answering             | https://zenodo.org/records/6473207                           |
+| Audio-MusicAVQA             | Audio    | Audio question answering             | https://gewu-lab.github.io/MUSIC-AVQA/                       |
