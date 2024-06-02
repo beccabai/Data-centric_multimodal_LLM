@@ -264,7 +264,7 @@ Multimodal SFT Datasets:
 | DataEngine-InstData         | Image             | https://opendatalab.com/OpenDataLab/DataEngine-InstData      |
 | GranD_f                     | Image             | https://huggingface.co/datasets/MBZUAI/GranD-f/tree/main     |
 | LLaVA                       | Image             | https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K |
-| LLaVA-1.5                   | Image             | https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/blob/main/llava_v1_5_mix665k.json https:/github.com/haotian-liu/LLaVA#train |
+| LLaVA-1.5                   | Image             | https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/blob/main/llava_v1_5_mix665k.json |
 | LVLM_NLF                    | Image             | https://huggingface.co/datasets/YangyiYY/LVLM_NLF/tree/main  |
 | M3IT                        | Image             | https://huggingface.co/datasets/MMInstruction/M3IT           |
 | MMC-Instruction Dataset     | Image             | https://github.com/FuxiaoLiu/MMC/blob/main/README.md         |
