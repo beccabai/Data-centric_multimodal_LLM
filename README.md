@@ -282,7 +282,7 @@ Multimodal SFT Datasets:
 | VIGC-InstData               | Image             | https://opendatalab.com/OpenDataLab/VIGC-InstData            |
 | VILA                        | Image             | https://github.com/Efficient-Large-Model/VILA/tree/main/data_prepare |
 | VLSafe                      | Image             | https://arxiv.org/abs/2312.07533                             |
-| Video-ChatGPT-video-it-data | Video             | https://mbzuaiac-my.sharepoint.com/personal/hanoona_bangalath_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhanoona%5Fbangalath%5Fmbzuai%5Fac%5Fae%2FDocuments%2FVideo%2DChatGPT%2FData%5FCode%5FModel%5FRelease%2FVideoInstruct%5FDataset%2Ejson&parent=%2Fpersonal%2Fhanoona%5Fbangalath%5Fmbzuai%5Fac%5Fae%2FDocuments%2FVideo%2DChatGPT%2FData%5FCode%5FModel%5FRelease&ga=1|
+| Video-ChatGPT-video-it-data | Video             | https://github.com/mbzuai-oryx/Video-ChatGPT |
 | VideoChat-video-it-data     | Video             | https://github.com/OpenGVLab/InternVideo/tree/main/Data/instruction_data |
 | X-InstructBLIP-it-data      | Image,Video,Audio | https://github.com/salesforce/LAVIS/tree/main/projects/xinstructblip |
 
