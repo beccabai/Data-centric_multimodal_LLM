@@ -1,6 +1,7 @@
 # Data-centric Multimodal LLM
 
-Survey on data-centric multimodal large language models 
+Survey on data-centric multimodal large language models  
+
 [Paper](https://arxiv.org/abs/2405.16640)
 
 ![Sources](Figures/figure1.png)
